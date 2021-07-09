@@ -1,3 +1,5 @@
+#Elijah Jedkins PSID: 1786452
+
 from datetime import date
 #create a list called months that connects the months of the year with a number
 date = date.today()
