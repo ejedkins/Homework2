@@ -1,3 +1,5 @@
+#Elijah Jedkins PSID: 1786452
+
 word = input()
 password = ''
 for letter in word:
